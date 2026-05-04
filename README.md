@@ -19,6 +19,12 @@ AIDO is an advanced command-line interface (CLI) agent powered by Google Gemini.
 pip install -e .
 ```
 
+You can also install the package with:
+
+```bash
+pip install aido-cli
+```
+
 ## Configuration
 
 AIDO uses a hierarchical configuration system. If a parameter is set in multiple places, the priority is:
