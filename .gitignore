@@ -1,0 +1,45 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+develop-eggs/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg
+.installed.cfg
+
+# --- Virtual Environments ---
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# --- IDE & Editors ---
+.vscode/
+.idea/
+.project
+.pydevproject
+.settings/
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# --- AIDO Local Data ---
+.aido/
+
+# --- Secrets ---
+.env
+config.json
+*.key
